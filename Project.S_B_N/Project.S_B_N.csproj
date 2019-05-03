@@ -133,7 +133,9 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Header.ascx" />
+    <Content Include="App_Themes\My theme\Skin1.skin" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="image\amazon-logo.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
